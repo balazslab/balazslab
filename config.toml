@@ -20,6 +20,8 @@ tag = "tags"
 
 
 [params]
+  color_theme = "default"
+
   description = "Website of research group"
   author = "Team Members of Balazs Lab"
   email = "balazs@pitt.edu"
