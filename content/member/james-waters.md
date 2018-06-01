@@ -29,12 +29,6 @@ sort_position = 6
     year = "2016"
     edu_link = "https://www.physics.gatech.edu"
 
-    course = "B.S. in Engineering Physics"
-    institution = "Cornell University"
-    year = "2007"
-    edu_link = "https://www.aep.cornell.edu"
-
-
 [[organizations]]
     name = "University of Pittsburgh"
     role = "Postdoctoral Researcher"
