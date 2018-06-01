@@ -3,7 +3,7 @@ publishdir = "public"
 static = "/static"
 builddrafts = true
 # Replace this with your website URL
-baseurl = "http://example.org/"
+baseurl = "/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Balazs Lab"
