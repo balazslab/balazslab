@@ -1,5 +1,5 @@
 layoutdir = "themes/hugo-academic-group/layouts"
-publishdir = "public"
+# publishdir = "public"
 static = "/static"
 builddrafts = true
 # Replace this with your website URL
