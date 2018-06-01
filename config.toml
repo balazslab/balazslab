@@ -10,6 +10,10 @@ title = "Balazs Lab"
 math = true
 copyright = "&copy; Balazs Lab, 2018 "
 
+[outputs]
+  home = [ "HTML", "CSS", "RSS" ]
+  section = [ "HTML", "RSS" ]
+
 [taxonomies]
 category = "categories"
 tag = "tags"
