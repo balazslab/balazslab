@@ -3,7 +3,7 @@ publishdir = "public"
 static = "static"
 builddrafts = true
 # Replace this with your website URL
-baseurl = "/"
+baseurl = "https://balazslab.netlify.com/"
 canonifyurls = true
 theme = "hugo-academic-group"
 title = "Balazs Lab"
