@@ -5,7 +5,7 @@ interests = [ "Soft-Matter & Biophysics",
     "Elasticity of thin sheets",
     "Adhesion" ]
 name = "Oz Oshri"
-portrait = "portraits/.oz-oshri.jpg"
+portrait = "portraits/oz-oshri.jpg"
 short_bio = ""
 title = "Oz Oshri"
 sort_position = 8
