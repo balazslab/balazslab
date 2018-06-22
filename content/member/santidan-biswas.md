@@ -6,7 +6,7 @@ name = "Santidan Biswas"
 portrait = "portraits/santi.jpg"
 short_bio = "I am a Postdoctoral Research Associate."
 title = "Santidan Biswas"
-sort_position = 8
+sort_position = 5
 #personal_website = ""
 cv_link = ""
 

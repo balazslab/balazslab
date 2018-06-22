@@ -6,7 +6,7 @@ name = "Victor V. Yashin"
 portrait = "portraits/victor-yashin.jpg"
 short_bio = ""
 title = "Victor V Yashin"
-sort_position = 31415926
+sort_position = 2
 cv_link = ""
 
 [[social]]

@@ -6,7 +6,7 @@ name = "Abhrajit Laskar"
 portrait = "portraits/test.jpg"
 short_bio = "I am a Postdoctoral Scholar."
 title = "Abhrajit Laskar"
-sort_position = 8
+sort_position = 9
 personal_website = "https://jitabhra.github.io"
 cv_link = "http://jitabhra.github.io/cv.pdf"
 

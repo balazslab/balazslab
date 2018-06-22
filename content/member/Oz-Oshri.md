@@ -8,7 +8,7 @@ name = "Oz Oshri"
 portrait = "portraits/.oz-oshri.jpg"
 short_bio = ""
 title = "Oz Oshri"
-sort_position = 99999
+sort_position = 8
 personal_website = ""
 cv_link = ""
 

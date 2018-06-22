@@ -1,16 +1,23 @@
 +++
 date = "2016-09-14T11:45:56+02:00"
-id = "ya-liu"
-interests = ["Soft Matter","Statistical Mechanics", "Polymer Physics"]
-name = "Ya Liu"
+id = "oleg-shklyaev"
+interests = [ "", "s" ]
+name = "Oleg S"
 portrait = "portraits/test.jpg"
 short_bio = "I am a Postdoctoral Scholar."
-title = "Ya Liu"
-sort_position = 3
+title = "Oleg shklyaev"
+sort_position = 4
+personal_website = ""
+cv_link = ""
 
 [[social]]
     icon = "envelope"
     icon_pack = "fa"
+    link = ""
+
+[[social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
     link = ""
 
 [[social]]
@@ -20,13 +27,12 @@ sort_position = 3
 
 [[education]]
     course = "Ph.D. in Physics"
-    institution = "Brandeis University"
-    year = "2009"
+    institution = ""  
+    year = ""
     edu_link = ""
-
 [[organizations]]
     name = "University of Pittsburgh"
-    role = "Postdoctoral Researcher"
+    role = "Post-Doctoral Researcher"
     org_link = "https://www.pitt.edu"
 +++
 

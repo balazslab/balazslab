@@ -8,7 +8,7 @@ name = "Tao Zhang"
 portrait = "portraits/Zhang-Tao.jpg"
 short_bio = ""
 title = "Tao Zhang"
-sort_position = 99999
+sort_position = 6
 personal_website = "https://taozhang.me"
 cv_link = "https://www.taozhang.me/cv/Tao-Zhang-CV.pdf"
 

@@ -6,7 +6,7 @@ name = "James T. Waters"
 portrait = "portraits/test.jpg"
 short_bio = "I am a Postdoctoral Scholar."
 title = "James T. Waters"
-sort_position = 6
+sort_position = 7
 
 [[social]]
     icon = "envelope"
